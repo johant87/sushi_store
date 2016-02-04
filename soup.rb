@@ -1,0 +1,2 @@
+class Soup < Food
+end
